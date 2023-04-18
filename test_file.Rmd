@@ -5,7 +5,7 @@ date: "2023-04-18"
 output: html_document
 ---
 
-# This was a githun test based on Lisa lendway tutorial (https://www.youtube.com/watch?v=QLFc9gw_Hfs)
+# This was a github test based on Lisa lendway tutorial (https://www.youtube.com/watch?v=QLFc9gw_Hfs)
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
